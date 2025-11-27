@@ -1,0 +1,35 @@
+# Ollama Chat + OCR Pro - Python Dependencies
+# Python Version: 3.9+
+# Generated: November 24, 2025
+# 
+# Installation: pip install -r requirements.txt
+
+# Web Framework & UI
+streamlit==1.51.0
+
+# Image Processing & OCR
+Pillow==11.1.0
+opencv-contrib-python==4.8.1.78
+paddleocr==3.3.2
+paddlepaddle==3.2.0
+
+# HTTP & API Communication
+requests==2.32.3
+
+# Data Processing & Numerical Computing
+numpy==2.2.0
+pandas==2.2.3
+scipy==1.14.1
+
+# LLM & Language Processing
+langchain==0.1.16
+langchain-community==0.0.38
+
+# Document Processing
+python-docx==1.1.2
+openpyxl==3.11.0
+beautifulsoup4==4.12.3
+
+# Utilities
+jsonschema==4.21.1
+pytz==2024.1
